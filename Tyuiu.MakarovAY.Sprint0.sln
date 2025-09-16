@@ -35,7 +35,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task4.V0.Lib", "Tyuiu.MakarovAY.Sprint0.Task4.V0.Lib\Tyuiu.MakarovAY.Sprint0.Task4.V0.Lib.csproj", "{B1584036-C81F-40D7-A230-74FBCACD9107}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{E864DFDA-0502-4A32-8029-C9B272BFFFD2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{E864DFDA-0502-4A32-8029-C9B272BFFFD2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task5.V0", "Tyuiu.MakarovAY.Sprint0.Task5.V0\Tyuiu.MakarovAY.Sprint0.Task5.V0.csproj", "{0FCA8D7B-66B0-4B1A-97FC-707A9A95B1BD}"
 EndProject
@@ -50,6 +50,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task6.V0.Lib", "Tyuiu.MakarovAY.Sprint0.Task6.V0.Lib\Tyuiu.MakarovAY.Sprint0.Task6.V0.Lib.csproj", "{7EA00B6A-AB23-4984-A4E5-CCEC7E6246E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task6.V0.Test", "Tyuiu.MakarovAY.Sprint0.Task6.V0.Test\Tyuiu.MakarovAY.Sprint0.Task6.V0.Test.csproj", "{D0B981AE-DCD9-41EC-86E9-BA2F9F3F58C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{3E7639CF-D5EA-45B0-B2AF-CD4E42D3D3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task7.V0", "Tyuiu.MakarovAY.Sprint0.Task7.V0\Tyuiu.MakarovAY.Sprint0.Task7.V0.csproj", "{70922BDD-3D4C-42E6-8582-B1019F88BEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task7.V0.Test", "Tyuiu.MakarovAY.Sprint0.Task7.V0.Test\Tyuiu.MakarovAY.Sprint0.Task7.V0.Test.csproj", "{5DB76A1A-47FB-4DA5-B262-4953F40B171D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MakarovAY.Sprint0.Task7.V0.Lib", "Tyuiu.MakarovAY.Sprint0.Task7.V0.Lib\Tyuiu.MakarovAY.Sprint0.Task7.V0.Lib.csproj", "{36DB4773-31A5-472D-8F46-905ABD9E99ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +133,18 @@ Global
 		{D0B981AE-DCD9-41EC-86E9-BA2F9F3F58C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B981AE-DCD9-41EC-86E9-BA2F9F3F58C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0B981AE-DCD9-41EC-86E9-BA2F9F3F58C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70922BDD-3D4C-42E6-8582-B1019F88BEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70922BDD-3D4C-42E6-8582-B1019F88BEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70922BDD-3D4C-42E6-8582-B1019F88BEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70922BDD-3D4C-42E6-8582-B1019F88BEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB76A1A-47FB-4DA5-B262-4953F40B171D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB76A1A-47FB-4DA5-B262-4953F40B171D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB76A1A-47FB-4DA5-B262-4953F40B171D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB76A1A-47FB-4DA5-B262-4953F40B171D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DB4773-31A5-472D-8F46-905ABD9E99ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DB4773-31A5-472D-8F46-905ABD9E99ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DB4773-31A5-472D-8F46-905ABD9E99ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DB4773-31A5-472D-8F46-905ABD9E99ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,6 +167,9 @@ Global
 		{E49D16E6-D00F-41A9-993F-C813458BC550} = {B74EA21C-CB13-4521-9DE2-2B09DCE627B3}
 		{7EA00B6A-AB23-4984-A4E5-CCEC7E6246E9} = {B74EA21C-CB13-4521-9DE2-2B09DCE627B3}
 		{D0B981AE-DCD9-41EC-86E9-BA2F9F3F58C2} = {B74EA21C-CB13-4521-9DE2-2B09DCE627B3}
+		{70922BDD-3D4C-42E6-8582-B1019F88BEEA} = {3E7639CF-D5EA-45B0-B2AF-CD4E42D3D3AD}
+		{5DB76A1A-47FB-4DA5-B262-4953F40B171D} = {3E7639CF-D5EA-45B0-B2AF-CD4E42D3D3AD}
+		{36DB4773-31A5-472D-8F46-905ABD9E99ED} = {3E7639CF-D5EA-45B0-B2AF-CD4E42D3D3AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF4847B7-641B-4619-AD54-6BC64CF18248}
